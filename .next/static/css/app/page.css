@@ -72,7 +72,79 @@
 
 
 
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/MetricsBoxSmall/styles/metricsbox.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************/
+.metricsbox_wrapper__EPl_B {
+    position: relative;
+    width: 279px;
+    height: 114px;
+    border:1px solid rgb(248, 248, 248);
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.metricsbox_headline__ZHNjM {
+    position:absolute;
+    letter-spacing: 0px;
+    display:inline-block;
+    color: rgb(108, 115, 127);
+    font-size: 15px;
+    top:15px;
+    left:25px;
+}
+
+.metricsbox_logoContainer__a3K1z {
+    position:absolute;
+    right: 20px;
+    top:20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.metricsbox_metric__zsAh6 {
+    color: black;
+    font-size: 25px;
+    position:absolute;
+    top:40px;
+    left:45px;
+}
+
+.metricsbox_lastMonthParagraph__9vpuN {
+    color: rgb(108, 115, 127);
+    
+}
+
+.metricsbox_trendPercent__5JeWo {
+    font-size: 13px;
+}
+
+.metricsbox_arrow__wtCN5 {
+    width: 18px;
+    height: 18px;
+}
+
+.metricsbox_trendContainer__VuZYM {
+    position:absolute;
+    display:flex;
+    flex-direction:row;
+    font-size:12px;
+    bottom:10px;
+    left:25px;
+}
 /*!*******************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/app/page.module.css ***!
   \*******************************************************************************************************************************************************************************************************************************************************************/
-
+.page_wrapper__xDBJh {
+  width: 100%;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}

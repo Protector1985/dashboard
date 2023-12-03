@@ -11,6 +11,12 @@
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
+    ],
+    "/conversation_history/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/conversation_history/page.css",
+      "static/chunks/app/conversation_history/page.js"
     ]
   }
 }
